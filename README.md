@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Nikhil Kumar Yadav |
+| **LinkedIn** | [nikhil-kumar-yadav-b6a48a21b](https://www.linkedin.com/in/nikhil-kumar-yadav-b6a48a21b/) |
+| **Location** | Howrah, West Bengal, India |
+| **Background** | Cybersecurity (Pentesting & SIEM), transitioning into DevOps & Cloud |
+| **Goal** | Build secure, automated cloud systems — combining my security background with DevOps and Agentic AI |
 
 ---
 
