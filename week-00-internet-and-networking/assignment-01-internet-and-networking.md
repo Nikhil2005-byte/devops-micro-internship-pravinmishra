@@ -14,7 +14,7 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 
 Write a clear ChatGPT prompt to help you understand:
 
-> "What is a protocol in networking? Explain with a simple real-life example."
+> "I am a beginner learning networking as part of my DevOps journey.Can you explain what a protocol is in computer networking?Please explain it in simple, beginner-friendly language and include:A simple definition of a networking protocol.One easy real-life example that I can relate to.One technical example of a networking protocol.Why protocols are important when two devices communicate.Please avoid complicated terms unless you explain them clearly."
 
 Take a screenshot of your interaction showing:
 
@@ -28,13 +28,11 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
-
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that helps devices communicate and exchange data correctly. The real-life communication example helped me understand why both devices need to follow common rules when communicating over a network.
 
 ---
 
@@ -59,8 +57,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
-
+When a user in the USA opens the EpicReads website hosted in Finland, the browser first needs to find the server using its IP address. The user's request is broken into small packets, and these packets travel through different network devices and routes across the internet. This is called packet switching.TCP/IP provides the rules that allow the packets to be addressed, delivered, and reassembled correctly. Once the connection is established, the browser communicates with the website using HTTP or, preferably, HTTPS. HTTPS also encrypts the communication, helping protect information while it travels between the user and EpicReads server. Finally, the server sends the requested webpage back to the user's device through the internet.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -102,18 +99,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node js
+* Express js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB
+* MySQL
 
 ---
 
@@ -142,7 +139,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System(DNS) converts domain names like epicreads.com, which are easy for humans to remember,into numerical IP addresses that computers can understand.This allows users to remember the website name instead of a difficult numerical IP address,making web browsing easier. DNS is basically like the phonebook of the internet,helping devices find the correct server.
+
+In this process,an a record should be used because it is specifically designed to connect a domain name with an IPv4 address. However,:3000 is the port number used by the application.It identifies the specific network port through which the application is communicating with the server.
 
 ---
 
