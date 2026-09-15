@@ -210,16 +210,16 @@ Use the credit note that matches your track:
 
 Add the following credit note at the end of your post **(If you are DMI Cohort 3 student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Nikhil2005-byte.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3**
 
 
 Add the following credit note at the end of your post **(If you are DMI Self-paced track student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Nikhil2005-byte.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced**
 
 Add the following credit note at the end of your post **(If you are DMI Campus student)**:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Nikhil2005-byte.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=campus**
 
 Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your public DMI progress page (your graded badge page).
 ---
@@ -229,7 +229,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/nikhil-kumar-yadav-b6a48a21b_dmi-devops-micro-internship-with-agentic-activity-7505514022528512000-c6-Q
 ```
 
 ---
@@ -238,7 +238,34 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Week 00 Completed | Starting My DevOps Journey with Pravin Mishra sir.
+
+I’ve started my DevOps Micro Internship (DMI) journey with the fundamentals of Internet, Networking and Development Tools.
+
+Here’s what I learned this week:
+
+🤖 ChatGPT
+I used ChatGPT as a learning assistant to understand networking protocols and how they help devices communicate using common rules.
+
+🌐 Internet & Networking
+I learned how a user in the USA can access a website hosted in Finland. I explored packet switching, IP addresses, TCP/IP and HTTP/HTTPS to understand how data travels between the user and server.
+
+🏗️ Application Architecture
+I compared two-tier and three-tier application architectures and understood the role of the frontend, backend and database layers.
+
+🌍 DNS
+I learned how DNS connects a human-readable domain name with an IP address and why an A record is used for an IPv4 address.
+
+💻 VS Code Setup
+I also verified my development environment using the VS Code integrated terminal and basic commands.
+
+This week helped me strengthen my networking fundamentals and gave me a better understanding of how different parts of an application communicate.
+
+Looking forward to building on these fundamentals in the upcoming weeks of my DevOps journey. 
+
+hashtag#DevOps hashtag#Networking hashtag#CloudComputing hashtag#DMIByPravinMishra hashtag#LearningJourney
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/gmz6gzxW · Start your DevOps journey: https://lnkd.in/giUQ45iV
 
 ---
 
@@ -246,19 +273,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts and DNS fundamentals relatively easy to understand. Using ChatGPT as a learning assistant also made it easier to clarify concepts with simple examples.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how data travels between a user and a server across different networks was a little difficult at first. Comparing two-tier and three-tier architecture also required some extra understanding of the role of each layer.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve my practical DevOps skills by spending more time working with commands and tools instead of only focusing on theory. I also want to understand the concepts well enough to troubleshoot problems on my own.
 
 ---
 
