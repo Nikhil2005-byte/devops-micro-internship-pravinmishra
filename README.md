@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/nikhil-kumar-yadav-b6a48a21b_dmi-devops-micro-internship-with-agentic-activity-7505514022528512000-c6-Q | https://medium.com/@nikhilky1235/my-first-step-into-devops-learning-internet-and-networking-b9a4c932cec2 |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/gMy-_gYf |https://medium.com/@nikhilky1235/my-biggest-problem-isnt-planning-it-s-execution-0fd495fc88c1|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
